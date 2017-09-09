@@ -1,0 +1,33 @@
+c:\users\prof-mohamed\documents\visual studio 2010\Projects\Human Rights\Human Rights\obj\x86\Debug\Human_Rights.EditProfile.resources
+c:\users\prof-mohamed\documents\visual studio 2010\Projects\Human Rights\Human Rights\obj\x86\Debug\Human_Rights.Form1.resources
+c:\users\prof-mohamed\documents\visual studio 2010\Projects\Human Rights\Human Rights\obj\x86\Debug\Human_Rights.login.resources
+c:\users\prof-mohamed\documents\visual studio 2010\Projects\Human Rights\Human Rights\obj\x86\Debug\Human_Rights.Properties.Resources.resources
+c:\users\prof-mohamed\documents\visual studio 2010\Projects\Human Rights\Human Rights\obj\x86\Debug\Human_Rights.Query_Item.resources
+c:\users\prof-mohamed\documents\visual studio 2010\Projects\Human Rights\Human Rights\obj\x86\Debug\Human_Rights.Register.resources
+c:\users\prof-mohamed\documents\visual studio 2010\Projects\Human Rights\Human Rights\obj\x86\Debug\Human Rights.csproj.GenerateResource.Cache
+c:\users\prof-mohamed\documents\visual studio 2010\Projects\Human Rights\Human Rights\bin\Debug\Human Rights.exe.config
+c:\users\prof-mohamed\documents\visual studio 2010\Projects\Human Rights\Human Rights\bin\Debug\Human Rights.exe
+c:\users\prof-mohamed\documents\visual studio 2010\Projects\Human Rights\Human Rights\bin\Debug\Human Rights.pdb
+c:\users\prof-mohamed\documents\visual studio 2010\Projects\Human Rights\Human Rights\obj\x86\Debug\Human Rights.exe
+c:\users\prof-mohamed\documents\visual studio 2010\Projects\Human Rights\Human Rights\obj\x86\Debug\Human Rights.pdb
+C:\Users\Prof-Mohamed\Documents\Visual Studio 2010\Projects\Human Rights\Human Rights\obj\x86\Debug\Human Rights.csprojResolveAssemblyReference.cache
+C:\Users\Prof-Mohamed\Documents\Visual Studio 2010\Projects\Human Rights\Human Rights\obj\x86\Debug\Human_Rights.EditProfile_members.resources
+C:\Users\Prof-Mohamed\Documents\Visual Studio 2010\Projects\Human Rights\Human Rights\obj\x86\Debug\Human_Rights.Delete_members.resources
+D:\My Developed Codes\Human Rights\Human Rights\bin\Debug\Human Rights.exe.config
+D:\My Developed Codes\Human Rights\Human Rights\obj\x86\Debug\Human Rights.exe
+D:\My Developed Codes\Human Rights\Human Rights\obj\x86\Debug\Human Rights.pdb
+D:\My Developed Codes\Human Rights\Human Rights\bin\Debug\Human Rights.exe
+D:\My Developed Codes\Human Rights\Human Rights\bin\Debug\Human Rights.pdb
+D:\My Developed Codes\Human Rights\Human Rights\obj\x86\Debug\Human Rights.csprojResolveAssemblyReference.cache
+D:\My Developed Codes\Human Rights\Human Rights\obj\x86\Debug\Human_Rights.Delete_members.resources
+D:\My Developed Codes\Human Rights\Human Rights\obj\x86\Debug\Human_Rights.EditProfile.resources
+D:\My Developed Codes\Human Rights\Human Rights\obj\x86\Debug\Human_Rights.EditProfile_members.resources
+D:\My Developed Codes\Human Rights\Human Rights\obj\x86\Debug\Human_Rights.Form1.resources
+D:\My Developed Codes\Human Rights\Human Rights\obj\x86\Debug\Human_Rights.login.resources
+D:\My Developed Codes\Human Rights\Human Rights\obj\x86\Debug\Human_Rights.Properties.Resources.resources
+D:\My Developed Codes\Human Rights\Human Rights\obj\x86\Debug\Human_Rights.Query_Item.resources
+D:\My Developed Codes\Human Rights\Human Rights\obj\x86\Debug\Human_Rights.Register.resources
+D:\My Developed Codes\Human Rights\Human Rights\obj\x86\Debug\Human Rights.csproj.GenerateResource.Cache
+D:\My Developed Codes\Human Rights\Human Rights\bin\Debug\BU_HRights.pdb
+D:\My Developed Codes\Human Rights\Human Rights\obj\x86\Debug\Human_Rights.Delete_Add_Branches.resources
+D:\My Developed Codes\Human Rights\Human Rights\bin\Debug\BU_HRights.dll
